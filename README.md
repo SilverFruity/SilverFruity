@@ -1,10 +1,12 @@
-### Hi there 👋
-
+### Hi 👏
+I'm Ke Ming Jiang, an iOS developer and unreliable crawler engineer.
+* 🔭 I’m currently working on iOS, Reverse engineering, Crawler and other more.
+* 😄 I'm loving motorcycle riding, coding, travel.
+* ⚡ Fun fact: Road is underfoot - 。-.
 <!--
 **SilverFruity/SilverFruity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![SilverFruity's github stats](https://github-readme-stats.vercel.app/api?username=SilverFruity)](https://github.com/SilverFruity/github-readme-stats)
