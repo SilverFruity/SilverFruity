@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Cantact: 389185764@qq.com、15328044115@163.com
+
 ![SilverFruity's github stats](https://github-readme-stats.vercel.app/api?username=SilverFruity)
