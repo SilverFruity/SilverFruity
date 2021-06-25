@@ -1,6 +1,7 @@
 ### Hi 👏
 I'm Ke Ming Jiang, an iOS developer and unreliable crawler engineer.
 * 🔭 I’m currently working on iOS, Reverse engineering, Crawler and other more.
+* 🌱 I’m currently learning iOS hotfix.
 * 😄 I'm loving motorcycle riding, coding, travel.
 * ⚡ Fun fact: Road is underfoot - 。-.
 * 👋 My personal [blog site](https://www.sayhelloworld.blog)
@@ -18,12 +19,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![SilverFruity's github stats](https://github-readme-stats.vercel.app/api?username=SilverFruity)
+
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+<summary> 🎯 <b> Now I'm focusing </b>: </summary>
 <br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=SilverFruity&show_icons=true&theme=blueberry&line_height=33&hide_border=true&count_private=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SilverFruity&theme=blueberry&hide_border=true">
-</p>
+ 
+![ocrunner][ocrunner_repo]  ![oc2mango][oc2mango_repo] 
+
 </details>
 
+[ocrunner_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SilverFruity&repo=OCRunner&theme=default
+[oc2mango_repo]: https://github-readme-stats.vercel.app/api/pin/?username=SilverFruity&repo=oc2mango&theme=default
