@@ -22,8 +22,8 @@ Here are some ideas to get you started:
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=SilverFruity&show_icons=true&theme=calm&line_height=33&hide_border=true&count_private=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SilverFruity&theme=calm&hide_border=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=SilverFruity&show_icons=true&theme=blueberry&line_height=33&hide_border=true&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SilverFruity&theme=blueberry&hide_border=true">
 </p>
 </details>
 
