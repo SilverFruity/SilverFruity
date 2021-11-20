@@ -1,7 +1,7 @@
 ### Hi 👏
 I'm Ke Ming Jiang, an iOS developer and unreliable crawler engineer.
 * 🔭 I’m currently working on iOS, Reverse engineering, Crawler and other more.
-* 🌱 I’m currently learning iOS hotfix.
+* 🌱 I’m currently learning compiler and virtual machine.
 * 😄 I'm loving motorcycle riding, coding, travel.
 * ⚡ Fun fact: Road is underfoot - 。-.
 * 👋 My personal [blog site](https://www.sayhelloworld.blog)
