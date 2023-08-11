@@ -4,7 +4,7 @@ I'm Ke Ming Jiang, an iOS developer and unreliable crawler engineer.
 * 🌱 I’m currently learning compiler and virtual machine.
 * 😄 I'm loving motorcycle riding, coding, travel.
 * ⚡ Fun fact: Road is underfoot - 。-
-* 👋 My personal [blog site](https://www.sayhelloworld.blog)
+* 👋 My personal [blog site](https://silverfruity.github.io)
 <!--
 **SilverFruity/SilverFruity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
